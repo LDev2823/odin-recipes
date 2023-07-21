@@ -1,1 +1,1 @@
-This is my first project and I'm not even sure if I'm doing this correctly. 
+Lazy collection of recipes I occasionally make for myself. Thats my description now. At first it was "I have no idea what I'm doing". Thats progress. This project required I wield many of the tools given in the Foundations Course thus far. Seeing how elements work together was a great way for me to remind myself of what each does. 
